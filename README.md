@@ -6,3 +6,14 @@ Repo contains the following:
 2. Software Design Specification.
 3. Test plan.
 4. Final Document. 
+
+Group Members:
+Alexander Lavis: arl691@mail.usask.ca
+Caim Chen: boc541@mail.usask.ca
+Justin Pointer: jpb788@mail.usask.ca
+Noah Kovacs: nlk877@mail.usask.ca
+Sajith Rajapaksa: smr614@mail.usask.ca
+
+
+ 
+ 
