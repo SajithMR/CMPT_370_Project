@@ -1,2 +1,2 @@
 # CMPT_370_project
-Contains my groups documentation of the SE project 
+CMPT 370 is the Intermediate Software Engineering class offered at the University of Saskatchewan. As part of the course, we designed a server base game following the waterfall process. This repo contains the documentation that we wrote. 
